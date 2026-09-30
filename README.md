@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0053-maximum-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0011-container-with-most-water) |
+| [0976-largest-perimeter-triangle](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0048-rotate-image) |
+| [0976-largest-perimeter-triangle](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -38,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rishabhshahwal/DSA-Problem/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
